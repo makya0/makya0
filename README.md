@@ -1,15 +1,58 @@
 xmr: `82V8qr87h7ccjtEiokZz7E4aawZDDTCbBPpnV7GUJuBpR9fGkVovms2EprbitmgpJaKWGtbPnxqWVCZwEqoTj5cq7VKnpyn`
-<!--
-**makya0/makya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+name: makya <br> 
+email: mii-@tutanota.com
+<br> <br> 
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+=5WlZ
+-----END PGP PUBLIC KEY BLOCK-----
+```
